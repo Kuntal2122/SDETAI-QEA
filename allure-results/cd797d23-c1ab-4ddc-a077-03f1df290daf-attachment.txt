@@ -1,0 +1,6 @@
+
+🤖 NVIDIA AI ANALYSIS:
+
+I'll help you analyze real Playwright automation failures based on the provided rules. Please provide the failure details, including the error message, code snippet, and any relevant context. I'll do my best to identify the root cause and provide a corrected Playwright TypeScript code snippet if necessary.
+
+Please go ahead and share the failure details. I'll follow the rules to provide a thorough analysis and solution.

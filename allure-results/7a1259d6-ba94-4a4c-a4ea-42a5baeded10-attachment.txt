@@ -1,0 +1,3 @@
+Total Products Sold: 2
+Sold Out Product 1: Brown Shades | £20.00
+Sold Out Product 2: White sandals | £25.00

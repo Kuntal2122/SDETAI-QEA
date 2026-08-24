@@ -1,0 +1,18 @@
+Page title: Products – Sauce Demo
+Total products: 7
+Product 0: Black heels
+£45.00
+Product 1: Bronze sandals
+£39.99
+Product 2: SOLD OUT
+Brown Shades
+£20.00
+Product 3: Grey jacket
+£55.00
+Product 4: Noir jacket
+£60.00
+Product 5: Striped top
+£50.00
+Product 6: SOLD OUT
+White sandals
+£25.00

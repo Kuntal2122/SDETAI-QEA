@@ -1,0 +1,11 @@
+
+🤖 Sending failure to NVIDIA AI...
+
+
+🤖 NVIDIA AI FAILURE ANALYSIS:
+
+I'll be happy to help you analyze real Playwright automation failures and provide corrected code when necessary.
+
+Please provide the failure details, including the test code, error messages, and any relevant application context. I'll follow the rules and guidelines you provided to identify the root cause and suggest corrections.
+
+Go ahead and share the failure details, and I'll get started.

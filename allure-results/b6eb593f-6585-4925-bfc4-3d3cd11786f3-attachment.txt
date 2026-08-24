@@ -1,0 +1,22 @@
+
+🤖 Sending failure to NVIDIA AI...
+
+
+🤖 NVIDIA AI FAILURE ANALYSIS:
+
+I'd be happy to help you analyze real Playwright automation failures. Please provide the test code and the error message you're seeing, and I'll do my best to identify the root cause and provide a corrected version of the code if necessary.
+
+Please note that I'll follow the rules you provided, which include:
+
+1. Always using Playwright TypeScript.
+2. Preferring Playwright locators and web-first assertions.
+3. Avoiding waitForSelector unless there's a specific reason.
+4. Not using deprecated Playwright APIs.
+5. Using expect assertions that automatically retry for supported web assertions.
+6. Not assuming a missing element means the test needs an explicit wait.
+7. Considering various potential root causes.
+8. Distinguishing between a test automation problem and an application defect.
+9. Providing the most likely root cause first.
+10. Providing corrected Playwright TypeScript code only when enough information is available.
+
+Let's get started! Please provide the test code and the error message you're seeing.

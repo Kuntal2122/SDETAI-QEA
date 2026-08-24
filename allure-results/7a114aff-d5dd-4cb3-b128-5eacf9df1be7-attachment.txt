@@ -1,0 +1,20 @@
+Total Courses: 19
+Course 1: Selenium Webdriver with Java Basics + Advanced + Interview Guide
+Course 2: Learn SQL in Practical + Database Testing from Scratch
+Course 3: Appium (Selenium) - Mobile Automation Testing from Scratch
+Course 4: WebSecurity Testing for Beginners-QA knowledge to next level
+Course 5: Learn JMETER from Scratch - (Performance + Load) Testing Tool
+Course 6: WebServices / REST API Testing with SoapUI
+Course 7: QA Expert Course :Software Testing + Bugzilla + SQL + Agile
+Course 8: Master Selenium Automation in simple Python Language
+Course 9: Advanced Selenium Framework Pageobject, TestNG, Maven, Jenkins,C
+Course 10: Write effective QA Resume that will turn to interview call
+Course 11: Engineer
+Course 12: Mechanic
+Course 13: Manager
+Course 14: Receptionist
+Course 15: Engineer
+Course 16: Postman
+Course 17: Businessman
+Course 18: Sportsman
+Course 19: Cricketer

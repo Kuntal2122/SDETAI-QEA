@@ -1,0 +1,12 @@
+Total Courses: 1
+Course 1: Name	Position	City	Amount
+Alex	Engineer	Chennai	28
+Ben	Mechanic	Bengaluru	23
+Dwayne	Manager	Kolkata	48
+Ivory	Receptionist	Chennai	18
+Jack	Engineer	Pune	32
+Joe	Postman	Chennai	46
+Raymond	Businessman	Mumbai	37
+Ronaldo	Sportsman	Chennai	31
+Smith	Cricketer	Delhi	33
+Smith	Cricketer	Delhi	33

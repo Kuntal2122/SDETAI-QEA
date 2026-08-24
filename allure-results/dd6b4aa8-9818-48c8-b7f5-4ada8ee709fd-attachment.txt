@@ -1,0 +1,5 @@
+Sauce Demo
+Total products: 3
+Product 1: Grey jacket
+Product 2: Noir jacket
+Product 3: Striped top

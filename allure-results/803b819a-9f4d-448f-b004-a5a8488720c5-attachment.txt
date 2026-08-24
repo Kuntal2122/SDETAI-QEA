@@ -1,0 +1,1 @@
+Total Products Count is: ${web_count}

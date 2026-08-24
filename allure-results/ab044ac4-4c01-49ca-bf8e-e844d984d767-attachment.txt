@@ -1,0 +1,3 @@
+Total Products Sold ${sold_count}
+Sold_Out Products {i+1}: ${title} | ${price}
+Sold_Out Products {i+1}: ${title} | ${price}

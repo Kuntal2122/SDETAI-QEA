@@ -1,0 +1,26 @@
+
+🤖 Sending failure to NVIDIA AI...
+
+
+🤖 NVIDIA AI FAILURE ANALYSIS:
+
+**Analysis**
+
+**1. Single most likely root cause:** 
+The most likely root cause is a **timing issue**. The test is expecting the element to have a specific text within a 5-second timeout, but the element is not found.
+
+**2. Type of issue:** 
+This is a **Test automation issue**. The test is not able to find the element within the specified timeout, which is a common issue in test automation.
+
+**3. Confidence:** 
+High confidence (90%) that this is a timing issue.
+
+**4. Recommended fix:**
+Use the `waitForSelector` method to wait for the element to be present on the page before asserting its text. This will help to avoid timing issues.
+
+**5. Corrected Playwright TypeScript code:**
+```typescript
+await page.waitForSelector('#ticket-count', { timeout: 5000 });
+await expect(page.locator('#ticket-count')).toHaveText('2');
+```
+Note: I've used `waitForSelector` to wait for the element to be present on the page, and then used `expect` to assert its text. This will help to avoid timing issues and ensure that the test is more reliable.

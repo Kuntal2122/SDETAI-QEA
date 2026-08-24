@@ -1,0 +1,2 @@
+Total Products Count is: 19
+Course is present in the table
